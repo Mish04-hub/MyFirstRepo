@@ -152,7 +152,7 @@ def library_menu():
 
 # Main program
 def main():
-    print("\nWelcome to the Library Application")
+    print("\n******** Welcome to the Library Application ********")
     while True:
         print("\n 1. Register\n 2. Login\n 3. Exit")
         choice = input("\nChoose an option: ").strip()
